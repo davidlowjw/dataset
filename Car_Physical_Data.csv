@@ -1,0 +1,117 @@
+Model,Country,Type,Weight,Turning Circle,Displacement,Horsepower,Gas Tank Size
+Acura Integra,Japan,Small,2700,37,112,130,13.2
+Acura Legend V6,Japan,Medium,3265,42,163,160,18
+Audi 100,Other,Medium,2935,39,141,130,21.1
+Audi 80,Other,Compact,2670,35,121,108,15.9
+Audi 90,Other,Compact,2790,35,141,130,15.9
+BMW 325i,Other,Compact,2895,35,152,168,16.4
+BMW 535i,Other,Medium,3640,39,209,208,21.1
+Buick Century,USA,Medium,2880,41,151,110,15.7
+Buick Electra V6,USA,Large,3350,43,231,165,18
+Buick Le Sabre V6,USA,Large,3325,42,231,165,18
+Buick Riviera V6,USA,Medium,3465,41,231,165,18.8
+Buick Skylark,USA,Compact,2640,39,151,110,13.6
+Cadillac Brougham V8,USA,Large,4285,44,307,140,25
+Cadillac De Ville V8,USA,Large,3545,43,273,180,18
+Cadillac Eldorado V8,USA,Medium,3480,42,273,180,18.8
+Chevrolet Astro V6,USA,Large,4025,42,262,150,27
+Chevrolet Beretta,USA,Compact,2655,38,133,95,15.6
+Chevrolet Camaro V6,USA,Sporty,3110,41,191,140,15.5
+Chevrolet Camaro V8,USA,Sporty,3320,41,305,170,15.5
+Chevrolet Caprice V8,USA,Large,3855,42,305,170,25
+Chevrolet Cavalier,USA,Compact,2485,38,133,95,13.6
+Chevrolet Corvette V8,USA,Sporty,3280,42,350,250,20
+Chevrolet Lumina,USA,Medium,3195,42,151,110,17.1
+Chevrolet Lumina APV V6,USA,Large,3630,42,191,120,20
+Chrysler Imperial V6,USA,Medium,3570,43,202,150,16
+Chrysler Le Baron Coupe,USA,Medium,2975,39,153,150,14
+Chrysler Le Baron V6,USA,Compact,3065,41,181,141,16
+Chrysler New Yorker V6,USA,Medium,3450,42,202,147,16
+Dodge Caravan,USA,Large,3385,42,153,100,20
+Dodge Colt,Japan,Small,2270,32,90,81,13.2
+Dodge Daytona,USA,Sporty,2885,38,153,100,14
+Dodge Daytona Turbo,USA,Sporty,2935,38,135,150,14
+Dodge Dynasty,USA,Medium,3080,42,153,100,16
+Dodge Grand Caravan V6,USA,Large,3735,47,202,150,20
+Dodge Omni,USA,Small,2300,40,135,93,13
+Dodge Shadow Turbo,USA,Compact,2670,38,153,150,14
+Eagle Premier V6,USA,Medium,3145,39,180,150,17
+Eagle Summit,USA,Small,2560,36,97,113,13.2
+Eagle Talon,USA,Sporty,2780,39,122,135,15.9
+Ford Aerostar V6,USA,Large,3665,42,182,145,21
+Ford Escort,USA,Small,2345,37,114,90,13
+Ford Festiva,Other,Small,1845,33,81,63,10
+Ford LTD Crown Victoria V8,USA,Large,3850,45,302,150,18
+Ford Mustang,USA,Sporty,2850,40,140,88,15.4
+Ford Mustang V8,USA,Sporty,3310,44,302,225,15.4
+Ford Probe,USA,Sporty,2695,38,133,110,15.1
+Ford Probe GT,USA,Sporty,2870,38,133,145,15.1
+Ford Taurus,USA,Medium,3015,42,153,90,16
+Ford Taurus V6,USA,Medium,3190,41,182,140,16
+Ford Tempo,USA,Compact,2750,39,141,98,15.4
+Ford Thunderbird V6,USA,Medium,3610,38,232,140,19
+GEO Metro,Japan,Small,1695,34,61,55,10.6
+GEO Prizm,Other,Small,2255,35,97,102,13.2
+GEO Storm,Japan,Sporty,2455,37,97,95,12.4
+Honda Accord,Other,Compact,2920,41,132,125,17
+Honda Civic,Other,Small,2260,34,91,92,11.9
+Honda Civic CRX Si,Japan,Sporty,2170,32,97,108,11.9
+Honda Prelude Si 4WS,Japan,Sporty,2710,34,125,140,15.9
+Hyundai Excel,Other,Small,2345,35,90,81,11.9
+Hyundai Sonata,Other,Medium,2885,41,143,110,15.9
+Infiniti Q45 V8,Japan,Medium,4000,42,274,278,22.5
+Lexus LS 400 V8,Japan,Medium,3930,40,242,250,22.5
+Lincoln Continental V6,USA,Medium,3695,42,232,140,18.6
+Lincoln Mark VII V8,USA,Medium,3780,43,302,225,22.1
+Lincoln Town Car V8,USA,Large,4040,45,302,150,18
+Mazda 626,Other,Compact,2780,39,133,110,15.9
+Mazda 929 V6,Japan,Medium,3480,39,180,158,18.5
+Mazda MPV V6,Japan,Large,3735,39,181,150,19.6
+Mazda MX-5 Miata,Japan,Sporty,2210,33,97,116,11.9
+Mazda MX-6,Other,Sporty,2690,36,133,110,15.9
+Mazda Protege,Japan,Small,2440,36,113,103,14.5
+Mercedes-Benz 190E,Other,Compact,3020,34,159,158,14.5
+Mercedes-Benz 300E,Other,Medium,3315,37,181,177,18.5
+Mercury Tracer,Other,Small,2285,36,97,82,11.9
+Mitsubishi Galant,Japan,Compact,2745,39,122,102,15.9
+Mitsubishi Precis,Other,Small,2185,37,90,81,11.9
+Mitsubishi Sigma V6,Japan,Compact,3110,41,181,142,15.9
+Mitsubishi Wagon,Japan,Large,3415,36,143,107,14.2
+Nissan 240SX,Japan,Sporty,2775,38,146,140,15.9
+Nissan 300ZX V6,Japan,Sporty,3350,38,180,180,18.7
+Nissan Axxess,Japan,Large,3185,38,146,138,17.2
+Nissan Maxima V6,Japan,Medium,3200,42,180,160,18.5
+Nissan Pulsar NX XE,Japan,Sporty,2390,38,97,90,13.2
+Nissan Sentra,Other,Small,2275,37,97,90,13.2
+Nissan Stanza,Japan,Compact,2920,39,146,138,16.4
+Nissan Van,Japan,Large,3690,38,146,106,17.7
+Olds Cutlass Supreme V6,USA,Medium,3220,41,189,135,16.5
+Oldsmobile Calais,USA,Compact,2645,39,151,110,13.6
+Oldsmobile Cutlass Ciera,USA,Medium,2765,42,151,110,15.7
+Peugeot 405,Other,Compact,2575,37,116,120,17.2
+Peugeot 505,Other,Medium,3000,39,132,120,18
+Plymouth Laser,USA,Sporty,2840,39,107,92,15.9
+Pontiac LeMans,Other,Small,2350,35,98,74,13.2
+Porsche 944,Other,Sporty,2900,36,165,165,21.1
+Saab 900,Other,Compact,2775,37,121,128,18
+Saab 900 Turbo,Other,Compact,2995,37,121,160,18
+Saab 9000S,Other,Medium,3065,40,121,130,17.9
+Sterling 827 V6,Other,Medium,3295,42,163,160,17
+Subaru Justy,Japan,Small,1900,32,73,73,9.2
+Subaru Legacy,Other,Compact,2935,37,135,130,15.9
+Subaru Loyale,Japan,Small,2295,35,109,90,15.9
+Subaru XT,Japan,Sporty,2485,36,109,97,15.9
+Toyota Camry,Other,Compact,2920,39,122,115,15.9
+Toyota Celica GT-S,Japan,Sporty,2885,39,132,130,15.9
+Toyota Corolla,Other,Small,2390,36,97,102,13.2
+Toyota Cressida,Japan,Medium,3480,36,180,190,18.5
+Toyota Supra,Japan,Sporty,3470,40,180,200,18.5
+Toyota Tercel,Japan,Small,2075,35,89,78,11.9
+Volkswagen Corrado,Other,Sporty,2680,34,109,158,14.5
+Volkswagen Fox,Other,Small,2190,34,109,81,12.4
+Volkswagen Golf,Other,Small,2215,35,109,100,14.5
+Volkswagen GTI,Other,Sporty,2270,35,109,105,14.5
+Volkswagen Jetta,Other,Small,2330,35,109,100,14.5
+Volkswagen Vanagon,Other,Large,3460,37,129,90,15.9
+Volvo 240,Other,Compact,2985,37,141,114,15.8
+Volvo 740 GL,Other,Medium,3140,37,141,114,15.8
